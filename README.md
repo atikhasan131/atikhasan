@@ -27,14 +27,19 @@ I’m an Economics student passionate about health economics, research, and deve
 
 ## 📘 About Me
 - 🎓 Major: Economics
-- 🏫 University: [Your University Name]
+- 🏫 University: University of Rajsashi
 - 📅 Current Year: 3rd Year
-- 💬 Interests: Research, Cycling, Football, and Reading about Political & Economic Issues
+- 💬 Interests: development economics,health economics,
 
 ## 🧠 Research Interests
 - Health Economics
 - Poverty & Inequality
-- Depression Literacy among Students
+- ## Research paper
+- ## 🧠 Research Papers
+
+- [Depression Literacy among University Students – Journal of Health Economics https://doi.org/10.1007/s12145-024-01616-9
+- [Socioeconomic Factors in Mental Health Awareness – ResearchGate]https://scholar.google.com/citations?view_op=list_works&hl=en&user=Goex02YAAAAJ()
+
 
 ## 🧩 Projects
 - **Depression and Public Health Study** – Team-based survey project on student depression literacy in Bangladesh.
