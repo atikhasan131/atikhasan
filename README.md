@@ -1,25 +1,6 @@
 # atikhasan
 hi,i'm here
-student-profile-atik-hasan/
-│
-├── README.md
-├── profile/
-│   ├── about_me.md
-│   ├── education.md
-│   ├── achievements.md
-│   ├── projects.md
-│   ├── research.md
-│   ├── extracurricular.md
-│   └── contact.md
-│
-├── assets/
-│   ├── images/
-│   │   ├── profile-photo.jpg
-│   │   └── certificate1.jpg
-│   └── documents/
-│       └── resume.pdf
-│
-└── LICENSE
+
 # 🎓 Student Profile – Atik Hasan
 
 Welcome to my student profile repository!  
