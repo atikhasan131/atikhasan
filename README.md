@@ -6,9 +6,15 @@
 
 
 
-[Project](https://github.com/yourusername/project)                                       | [Research](https://github.com/yourusername/research)                                                    | [CV](https://yourwebsite.com/cv.pdf)
 
 
+(Project](https://github.com/yourusername/project) | 
+
+
+[Research](https://github.com/yourusername/research) |
+
+
+ [CV](https://yourwebsite.com/cv.pdf)
 
 
  
