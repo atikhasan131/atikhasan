@@ -7,16 +7,14 @@
 ## 📘 About Me
 -am an undergraduate student in Economics at the University of Rajshahi, and I am building my academic foundation to pursue future research opportunities in applied economics. My research interests lie at the intersection of development economics, health economics, agricultural economics, and environmental economics. I am particularly interested in how households and communities in low- and middle-income countries make decisions under various economic and environmental constraints.
 
-I aim to focus on empirical research methods, including econometric analysis, causal inference, and the use of machine learning tools with survey and administrative data. I am motivated to understand real-world challenges related to agriculture, public health, and sustainable developmen
+I aim to focus on empirical research methods, including econometric analysis, causal inference, and the use of machine learning tools with survey and administrative data. I am motivated to understand real-world challenges related to agriculture, public health, and sustainable development
 
 
 
 ## 🧩on going  Projects
 - research paper : Iportance of information and communication technology on disaster management, astudy on southeastern region in Bangladesh
 
-## 🏅 Achievements
-- 🥇 Inter-department Football Champion (Defender)
-- 🏆 University Research Presentation Finalist
+
 
 ## 🌐 Contact
 - 📧 Email: s2210842131@ru.ac.bd
