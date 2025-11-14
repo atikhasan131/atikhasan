@@ -10,7 +10,7 @@
 
 
 
-[Project](https://github.com/yourusername/projehttps://cdnstatic.tencentcs.com/edgeone/pages/assets/1763136459185-C9cn.pngct) | [Research](https://github.com/yourusername/research) |[CV](https://yourwebsite.com/cv.pdf)
+[Project](https://cdnstatic.tencentcs.com/edgeone/pages/assets/1763136459185-C9cn.png) | [Research](https://github.com/yourusername/research) |[CV](https://yourwebsite.com/cv.pdf)
 
 
 
