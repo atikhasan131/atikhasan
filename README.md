@@ -1,4 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GitHub Menu Generator</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f6f8fa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  nav {
+    background-color: #24292f;
+    padding: 10px 20px;
+    border-radius: 8px;
+  }
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+  }
+  nav ul li {
+    color: #ffffff;
+    cursor: pointer;
+    transition: color 0.2s;
+  }
+  nav ul li:hover {
+    color: #58a6ff;
+  }
+</style>
+</head>
+<body>
 
+<nav>
+  <ul>
+    <li onclick="navigateTo('project')">Project</li>
+    <li onclick="navigateTo('research')">Research</li>
+    <li onclick="navigateTo('cv')">CV</li>
+  </ul>
+</nav>
+
+<script>
+  function navigateTo(page) {
+    alert('Navigating to ' + page + ' page!');
+    // Replace alert with actual navigation if needed, e.g.:
+    // window.location.href = page + '.html';
+  }
+</script>
+
+</body>
+</html>
  
 ![](https://media.licdn.com/dms/image/v2/D4E03AQFZvCtc-5Aerw/profile-displayphoto-shrink_800_800/B4EZPVf.mmHEAc-/0/1734453751869?e=1764201600&v=beta&t=0EeBMiwkKh8yLZbkB_GpOhdYo_8J8RP_kgV3oqQn6BA)
 
