@@ -9,24 +9,15 @@
 
 I aim to focus on empirical research methods, including econometric analysis, causal inference, and the use of machine learning tools with survey and administrative data. I am motivated to understand real-world challenges related to agriculture, public health, and sustainable developmen
 
-## 🧠 Research Interests
-- Health Economics
-- Poverty & Inequality
-- ## Research paper
-- ## 🧠 Research Papers
-
-- [Depression Literacy among University Students – Journal of Health Economics https://doi.org/10.1007/s12145-024-01616-9
-- [Socioeconomic Factors in Mental Health Awareness – ResearchGate]https://scholar.google.com/citations?view_op=list_works&hl=en&user=Goex02YAAAAJ()
 
 
-## 🧩 Projects
-- **Depression and Public Health Study** – Team-based survey project on student depression literacy in Bangladesh.
-- **Dictation Literacy Research** – Exploring language learning and dictation practices among university students.
+## 🧩on going  Projects
+- research paper : Iportance of information and communication technology on disaster management, astudy on southeastern region in Bangladesh
 
 ## 🏅 Achievements
 - 🥇 Inter-department Football Champion (Defender)
 - 🏆 University Research Presentation Finalist
 
 ## 🌐 Contact
-- 📧 Email: atik.hasan@email.com
+- 📧 Email: s2210842131@ru.ac.bd
 - 🔗 GitHub: [github.com/atik-hasan](https://github.com/atik-hasan)
