@@ -8,13 +8,13 @@
 
 
 
-(Project](https://github.com/yourusername/project) | 
+[Project](https://github.com/yourusername/project) | [Research](https://github.com/yourusername/research) |[CV](https://yourwebsite.com/cv.pdf)
 
 
-[Research](https://github.com/yourusername/research) |
 
 
- [CV](https://yourwebsite.com/cv.pdf)
+
+
 
 
  
