@@ -17,6 +17,16 @@
 
 
 
+[**Project**](https://github.com/YOUR_USERNAME/project) · [**Research**](https://github.com/YOUR_USERNAME/research) · [**CV**](https://github.com/YOUR_USERNAME/cv)
+
+---
+
+### Quick links
+- 🔭 Current project: [Project](https://github.com/YOUR_USERNAME/project)
+- 📚 Research & papers: [Research](https://github.com/YOUR_USERNAME/research)
+- 📄 CV / Resume: [CV](https://github.com/YOUR_USERNAME/cv)
+
+
 
 
 
