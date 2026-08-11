@@ -353,4 +353,124 @@ If you are interested in economics, research or data-driven development, feel fr
 - research paper : Iportance of information and communication technology on disaster management, astudy on southeastern region in Bangladesh
 
 
+# Research Portfolio — Atik Hasan
+
+Welcome to my academic research portfolio.
+
+I am a Bachelor of Social Science student at the University of Rajshahi, Bangladesh, with research experience as a Research Assistant at the Rajshahi University Research Society (RURS).
+
+This repository provides an organized overview of my research interests, projects, publications, analytical skills, and research development.
+
+---
+
+## 👨‍🔬 Researcher
+
+**Atik Hasan**
+
+**Academic background:** Bachelor of Social Science
+**Institution:** University of Rajshahi, Bangladesh
+**Period:** 2022–2026
+
+---
+
+## 🔬 Research Interests
+
+* Quantitative social science research
+* Data analysis
+* Development studies
+* Public policy
+* Consumer behaviour
+* Gender and trafficking
+* Mental health and depression literacy
+* Interdisciplinary research
+* Evidence-based research
+
+---
+
+## 📚 Publications & Research
+
+### Published
+
+**Deep learning approaches for short-crop reference evapotranspiration estimation: a case study in Southeastern Australia**
+
+DOI: `10.1007/s12145-024-01616-9`
+
+### Under Review
+
+**Depression and depression literacy among Bangladeshi University students**
+
+### Ongoing
+
+**Child and women trafficking: a review on policy, consequences**
+
+**Consumers' behaviour in inflation on fish buying: a prospective of Bangladesh**
+
+---
+
+## 🧰 Methods & Tools
+
+* R
+* Stata
+* SPSS
+* Microsoft Excel
+* Zotero
+* Mendeley
+* Literature review
+* Quantitative data analysis
+* Academic writing
+
+---
+
+## 📁 Portfolio Structure
+
+```text
+research-portfolio/
+│
+├── publications/
+├── ongoing-research/
+├── datasets/
+├── analysis/
+├── literature-reviews/
+├── presentations/
+└── README.md
+```
+
+---
+
+## 🎯 Graduate Research Goal
+
+I am developing this portfolio as part of my preparation for MS-level study.
+
+The purpose is to document my research development, demonstrate methodological skills, and make selected research materials more accessible to prospective supervisors and academic collaborators.
+
+---
+
+## ⚠️ Research Ethics
+
+Research materials containing confidential, personally identifiable, copyrighted, restricted, or unpublished information should not be uploaded to this repository.
+
+Where appropriate, repositories will contain:
+
+* Documentation
+* Analysis code
+* Synthetic or publicly available data
+* Variable descriptions
+* Research notes
+* Reproducibility instructions
+
+rather than confidential research data.
+
+---
+
+## 📫 Contact
+
+**Atik Hasan**
+
+* Google Scholar: [Add link]
+* ORCID: [Add link]
+* LinkedIn: [Add link]
+* Email: [Add academic email]
+
+
+
 
