@@ -36,6 +36,320 @@ I aim to focus on empirical research methods, including econometric analysis, ca
 
 
 ## 🧩on going  Projects
+
+
+# 👋 Hello, I'm Atik Hasan
+
+### 🎓 Economics | 🔬 Economic Research | 📊 Data Analysis | 🇧🇩 Bangladesh Economy
+
+<p align="center">
+  <a href="https://github.com/atikhasanecon-creator">
+    <img src="https://img.shields.io/badge/GitHub-atikhasanecon--creator-181717?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/Field-Economics-2E7D32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Research-1565C0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Development-Economics-6A1B9A?style=for-the-badge" />
+</p>
+
+---
+
+## 🧑‍🔬 About Me
+
+I am an **Economics graduate and research enthusiast** interested in understanding real-world economic and social problems through **economic theory, empirical research, and data analysis**.
+
+My research interests include **development economics, macroeconomics, entrepreneurship, public policy, poverty and inequality, inflation, labour markets, international trade, and contemporary economic issues in Bangladesh**.
+
+I am building a research portfolio focused on transforming **economic questions into evidence-based analysis**.
+
+> **Research Question → Data → Analysis → Evidence → Policy Insight**
+
+---
+
+## 🔬 Research Interests
+
+| Area                       | Interests                             |
+| -------------------------- | ------------------------------------- |
+| 🌍 Development Economics   | Economic growth, development, poverty |
+| 🇧🇩 Bangladesh Economy    | Contemporary economic challenges      |
+| 📈 Macroeconomics          | Inflation, unemployment, growth       |
+| 💼 Entrepreneurship        | SMEs, entrepreneurship & employment   |
+| 🏛️ Public Policy          | Evidence-based policy & institutions  |
+| 👥 Labour Economics        | Employment, wages & labour markets    |
+| 🌐 International Economics | Trade, globalization & development    |
+| 📊 Applied Economics       | Data-driven economic research         |
+
+---
+
+## 🎓 Education
+
+### 🎓 [Your Degree / Honours in Economics]
+
+**[University Name]**
+📍 Bangladesh
+📅 [Start Year] – [Graduation Year]
+
+**Relevant coursework:**
+
+* Microeconomics
+* Macroeconomics
+* Econometrics
+* Development Economics
+* Statistics
+* Mathematical Economics
+* Public Economics
+* International Economics
+
+> 📌 *Replace the bracketed information with your actual university, degree and dates.*
+
+---
+
+## 📚 Publications
+
+### Research Papers
+
+**01. [Research Paper Title]**
+*Working Paper / Undergraduate Research*
+📅 [Year]
+
+> Brief description of your research question, methodology and main findings.
+
+**02. [Research Paper Title]**
+*Working Paper / Research Project*
+📅 [Year]
+
+> Brief description of the research.
+
+### 📖 Research in Progress
+
+* 🇧🇩 Contemporary Economic Issues in Bangladesh
+* 💼 Entrepreneurship and Economic Development
+* 📈 Inflation and Household Welfare
+* 📊 Data-driven Development Research
+
+> Publications will be added as research work is completed and published.
+
+---
+
+## 📊 Research Projects
+
+### 🇧🇩 Bangladesh Economic Indicators
+
+**Objective:**
+Explore major economic indicators of Bangladesh and identify important trends over time.
+
+**Focus:**
+`GDP` `Inflation` `Unemployment` `Trade` `Poverty`
+
+**Tools:**
+`Excel` `Python` `R` `Stata`
+
+🔗 **Repository:** Coming soon
+
+---
+
+### 💼 Entrepreneurship & Economic Development
+
+**Objective:**
+Investigate how entrepreneurship and SMEs contribute to employment, income generation and economic development.
+
+**Research areas:**
+
+* Entrepreneurship barriers
+* Access to finance
+* Business environment
+* Employment generation
+* Government policy
+
+🔗 **Repository:** Coming soon
+
+---
+
+### 📈 Inflation & Cost of Living
+
+**Objective:**
+Analyze inflation trends and their potential effects on household welfare and purchasing power.
+
+**Methods:**
+
+* Descriptive statistics
+* Trend analysis
+* Data visualization
+* Comparative analysis
+
+🔗 **Repository:** Coming soon
+
+---
+
+## 🧮 Research Methods
+
+### Quantitative
+
+`Descriptive Statistics`
+`Correlation Analysis`
+`Regression Analysis`
+`Time-Series Analysis`
+`Panel Data Analysis`
+`Econometric Modelling`
+
+### Research
+
+`Literature Review`
+`Research Design`
+`Data Collection`
+`Data Cleaning`
+`Empirical Analysis`
+`Academic Writing`
+
+---
+
+## 💻 Technical Skills
+
+### Data & Statistical Tools
+
+<p>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stata-1A5A96?style=flat-square"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</p>
+
+### Research & Development
+
+`Git` `GitHub` `Jupyter Notebook` `Data Visualization` `Econometrics`
+
+---
+
+## 🏅 Research Profile
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🔬_Research-Economics-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📊_Data-Analysis-2E7D32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌍_Development-Economics-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🇧🇩_Focus-Bangladesh-E65100?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=atikhasanecon-creator&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikhasanecon-creator&layout=compact&hide_border=true&langs_count=8" />
+
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=atikhasanecon-creator&hide_border=true" />
+
+</p>
+
+---
+
+## 📌 Featured Research
+
+| Project                 | Description                   | Status        |
+| ----------------------- | ----------------------------- | ------------- |
+| 🇧🇩 Bangladesh Economy | Economic indicators & trends  | 🔄 Developing |
+| 📈 Inflation Analysis   | Inflation & purchasing power  | 🔄 Developing |
+| 💼 Entrepreneurship     | SMEs & economic development   | 🔄 Developing |
+| 📊 Economic Data        | Data analysis & visualization | 🔄 Developing |
+
+---
+
+## 📂 Research Portfolio
+
+This GitHub profile is being developed as an open research portfolio containing:
+
+* 📊 Economic datasets
+* 📈 Data visualizations
+* 🧮 Econometric analysis
+* 📚 Literature reviews
+* 🔬 Research papers
+* 💻 Reproducible research code
+* 🇧🇩 Bangladesh-focused economic studies
+
+---
+
+## 📄 Curriculum Vitae
+
+<p align="center">
+
+<a href="./CV.pdf">
+<img src="https://img.shields.io/badge/📄_Download-Curriculum_Vitae-8B0000?style=for-the-badge" />
+</a>
+
+</p>
+
+**CV file:** `CV.pdf`
+
+> Upload your latest CV as `CV.pdf` to this repository. The button above will then provide a direct download.
+
+---
+
+## 🤝 Research Collaboration
+
+I am open to collaborating on:
+
+* 🔬 Economics research
+* 📊 Data analysis
+* 🌍 Development economics
+* 🇧🇩 Bangladesh-focused research
+* 🏛️ Public policy research
+* 💼 Entrepreneurship research
+* 📈 Econometric projects
+* 📚 Academic research
+
+If you are interested in economics, research or data-driven development, feel free to connect.
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/atikhasanecon-creator">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<!-- Add your LinkedIn URL here -->
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+📧 **Email:** [Your professional email]
+
+🔗 **LinkedIn:** [Your LinkedIn profile]
+
+🌐 **Website:** [Your personal/research website]
+
+---
+
+## 🎯 Research Vision
+
+> **"To use economics, data and evidence to better understand real-world problems and contribute to meaningful development."**
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my research portfolio!
+
+**Economics • Research • Data • Development**
+
+</p>
+
+
+
 - research paper : Iportance of information and communication technology on disaster management, astudy on southeastern region in Bangladesh
 
 
