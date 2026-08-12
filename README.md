@@ -1,5 +1,11 @@
 
 
+
+<p align="center">
+  <img src="./assets/atik-profile.jpg" alt="Atik Hasan" width="180">
+</p>
+
+
 <div align="center">
 
 
