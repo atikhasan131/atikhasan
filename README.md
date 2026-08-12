@@ -1,3 +1,296 @@
+# GitHub Profile — Atik Hasan
+
+<div align="center">
+
+# **ATIK HASAN**
+
+### Researcher · Developer · Technology Enthusiast
+
+<br>
+
+<a href="#home">Home</a>    <a href="#about">About</a>    <a href="#research">Research</a>    <a href="#publications">Publications</a>    <a href="#projects">Projects</a>
+
+<br><br>
+
+<a href="#conference">Conference</a>    <a href="#work-experience">Work Experience</a>    <a href="#education">Education</a>    <a href="#cv">CV</a>
+
+<br><br>
+
+<a href="#contact">Contact</a>
+
+</div>
+
+---
+
+<a name="home"></a>
+
+## 🏠 Home
+
+Welcome to my GitHub profile.
+
+I am **Atik Hasan**, interested in research, technology, software development, and solving real-world problems through innovative technological solutions.
+
+This profile presents my **research activities, publications, projects, academic background, professional experience, and technical interests**.
+
+---
+
+<a name="about"></a>
+
+## 👨‍💻 About
+
+I am passionate about learning and working with emerging technologies.
+
+My interests include:
+
+* 🔬 Research and Innovation
+* 💻 Software Development
+* 🤖 Artificial Intelligence & Machine Learning
+* 📊 Data Science
+* 🌐 Web Technologies
+* 📚 Academic & Technical Research
+* 🚀 Technology-driven Problem Solving
+
+🌐 **Portfolio:**
+https://atikhasan131.github.io/atikhasan/
+
+---
+
+<a name="research"></a>
+
+## 🔬 Research
+
+### Research Interests
+
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Data Science
+* Computer Vision
+* Natural Language Processing
+* Software Engineering
+* Emerging Technologies
+
+I am interested in developing research-oriented solutions that combine theoretical knowledge with practical applications.
+
+---
+
+<a name="publications"></a>
+
+## 📚 Publications
+
+### Research Publications
+
+My research papers, journal articles, conference papers, and other academic publications will be listed in this section.
+
+| Year | Publication                                | Venue |
+| ---- | ------------------------------------------ | ----- |
+| —    | Publication information will be added here | —     |
+| —    | Publication information will be added here | —     |
+
+---
+
+<a name="projects"></a>
+
+## 🚀 Projects
+
+### Project 01
+
+**Description:**
+Add a short description of your project here.
+
+**Technologies:**
+`Python` `Machine Learning` `GitHub`
+
+### Project 02
+
+**Description:**
+Add a short description of your project here.
+
+**Technologies:**
+`Python` `JavaScript` `HTML` `CSS`
+
+### Project 03
+
+**Description:**
+Add a short description of your project here.
+
+**Technologies:**
+Add the technologies used in the project.
+
+---
+
+<a name="conference"></a>
+
+## 🎤 Conference
+
+### Conference & Academic Activities
+
+* Conference presentations
+* Research seminars
+* Academic workshops
+* Technical conferences
+* Research discussions
+* Poster presentations
+
+Details of conferences and presentations will be added here.
+
+---
+
+<a name="work-experience"></a>
+
+## 💼 Work Experience
+
+### Position / Role
+
+**Organization Name**
+`Year – Present`
+
+* Add your responsibilities here.
+* Add your major contributions here.
+* Add relevant technologies and tools here.
+
+### Previous Position
+
+**Organization Name**
+`Year – Year`
+
+* Add your responsibilities here.
+* Add your achievements here.
+
+---
+
+<a name="education"></a>
+
+## 🎓 Education
+
+### Degree / Program
+
+**University / Institution Name**
+`Year – Year`
+
+**Department:** Your Department
+
+Add relevant academic information, achievements, coursework, or research activities here.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+`Python` `C` `C++` `Java` `JavaScript`
+
+### AI & Data
+
+`Machine Learning` `Deep Learning` `Data Science` `Computer Vision`
+
+### Web Development
+
+`HTML` `CSS` `JavaScript`
+
+### Tools & Platforms
+
+`Git` `GitHub` `VS Code` `Jupyter Notebook`
+
+---
+
+<a name="cv"></a>
+
+## 📄 CV
+
+<div align="center">
+
+### Curriculum Vitae
+
+<a href="#">
+<img src="https://img.shields.io/badge/Download%20CV-View%20CV-0A66C2?style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
+<a name="contact"></a>
+
+## 📬 Contact
+
+<div align="center">
+
+### Let's Connect
+
+<br>
+
+<a href="https://github.com/atikhasan131">
+<img src="https://img.shields.io/badge/GitHub-Atik%20Hasan-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://atikhasan131.github.io/atikhasan/">
+<img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### **ATIK HASAN**
+
+*Research · Technology · Innovation · Learning*
+
+<br>
+
+⭐ Thank you for visiting my profile!
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
