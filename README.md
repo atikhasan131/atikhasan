@@ -1,10 +1,10 @@
-# GitHub Profile — Atik Hasan
+
 
 <div align="center">
 
 # **ATIK HASAN**
 
-### Researcher · Developer · Technology Enthusiast
+
 
 <br>
 
@@ -78,16 +78,39 @@ I am interested in developing research-oriented solutions that combine theoretic
 
 ## 📚 Publications
 
-### Research Publications
+## Published Research
 
-My research papers, journal articles, conference papers, and other academic publications will be listed in this section.
+### Deep learning approaches for short-crop reference evapotranspiration estimation: a case study in Southeastern Australia
 
-| Year | Publication                                | Venue |
-| ---- | ------------------------------------------ | ----- |
-| —    | Publication information will be added here | —     |
-| —    | Publication information will be added here | —     |
+**DOI:** `10.1007/s12145-024-01616-9`
+
+This research represents an interdisciplinary application of data-driven and deep-learning approaches to reference evapotranspiration estimation.
 
 ---
+
+## 📝 Manuscript Under Review
+
+### Depression and depression literacy among Bangladeshi University students
+
+**Status:** Currently submitted for academic review.
+
+The research focuses on depression and depression literacy among university students in Bangladesh.
+
+---
+
+## 🔬 Ongoing Research
+
+### Child and women trafficking: a review on policy, consequences
+
+A review-based research project examining policy responses and consequences related to child and women trafficking.
+
+### Consumers' behaviour in inflation on fish buying: a prospective of Bangladesh
+
+An ongoing research project examining consumer behaviour and fish-buying decisions in the context of inflation in Bangladesh.
+
+---
+
+
 
 <a name="projects"></a>
 
@@ -210,11 +233,17 @@ Add relevant academic information, achievements, coursework, or research activit
 
 ---
 
+
+
+
 <a name="contact"></a>
 
 ## 📬 Contact
 
+
 <div align="center">
+📧 Email: `atikhasan.econ@email.com`
+
 
 ### Let's Connect
 
@@ -324,29 +353,25 @@ Email:s2210842131@ru.ac.bd
 
 ## 👋 About Me
 
-I am a **Bachelor of Social Science student at the University of Rajshahi, Bangladesh**, with research experience in academic data analysis, research assistance, literature review, research communication, and interdisciplinary research.
+Welcome to my GitHub profile!
 
-My academic interests focus on understanding important social and economic issues through **evidence-based research, quantitative analysis, and interdisciplinary approaches**.
+I am Atik Hasan, passionate about research, technology, software development, and innovation. I use this space to share my academic work, research activities, technical projects, and learning journey.
 
-I am currently developing my research portfolio and preparing for **MS-level study and research**, with the goal of strengthening my research methodology, statistical analysis, and academic research capabilities.
+My primary interests include Artificial Intelligence, Machine Learning, Data Science, Software Engineering, and emerging technologies.
 
----
+I am interested in developing practical and research-oriented solutions to real-world problems.
+
+
 
 ## 🔬 Research Interests
 
-* Quantitative Social Science Research
-* Data Analysis
-* Development Studies
-* Public Policy
-* Consumer Behaviour
-* Social and Economic Issues
-* Gender and Human Trafficking
-* Depression and Depression Literacy
-* Interdisciplinary Research
-* Evidence-Based Policy
-* Applied Statistical Analysis
 
----
+* 🌱 Environmental Economics
+* ♻️ Natural & Renewable Resource Economics & Sustainability
+* 📊 Data Science & Econometrics
+* 🏛️ Public Policy & Economic Analysis
+
+
 
 ## 🎓 Education
 
@@ -356,14 +381,15 @@ I am currently developing my research portfolio and preparing for **MS-level stu
 
 **2022 – 2026**
 
----
+### H.S.C
+**kashipur collage
 
 ## 🧪 Research Experience
 
 ### Research Assistant
 
 **Rajshahi University Research Society (RURS)**
-*November 2022 – 2024*
+*November 2022 – 2025*
 
 * Assisted in gathering and organizing academic research data.
 * Supported data analysis for ongoing research projects.
@@ -373,13 +399,13 @@ I am currently developing my research portfolio and preparing for **MS-level stu
 ### Content Writer
 
 **Rajshahi University Research Society (RURS)**
-*February 2023 – Present*
+*February 2023 – 2025*
 
 * Draft and edit content communicating research findings and academic activities.
 * Collaborate with team members on research-related communication.
 * Help communicate academic ideas and activities to a broader audience.
 
----
+
 
 # 📚 Publications & Research
 
@@ -548,7 +574,7 @@ I believe research should not only identify problems but also contribute to a de
 Bachelor of Social Science
 University of Rajshahi, Bangladesh
 
-📧 Email: `atik.hasan@example.com`
+📧 Email: `atikhasan.econ@email.com`
 
 ---
 
