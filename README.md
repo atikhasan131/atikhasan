@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="./assets/atik-profile.jpg" alt="Atik Hasan" width="180">
+  <img src="./assets/atik-profile.jpg" width="180">
 </p>
 
 
