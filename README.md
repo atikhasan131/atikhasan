@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/atikhasan.png" alt="Atik Hasan" width="180">
+  <img src="./assets/atik-profile-github.jpg" alt="Atik Hasan" width="180">
 </p>
 
 
